@@ -1,0 +1,11 @@
+{
+  "name": "browser-request",
+  "version": "0.0.1",
+  "description": "A quick and dirty request module made to look like the nodejs version.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "author": "Gary Taylor (gary.taylor@hismessages.com)",
+  "license": "MIT",
+}
